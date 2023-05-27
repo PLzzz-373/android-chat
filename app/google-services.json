@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28585787284",
+    "project_id": "chat-app-cb9df",
+    "storage_bucket": "chat-app-cb9df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28585787284:android:3e6bc8fb498a300f625981",
+        "android_client_info": {
+          "package_name": "com.gugugu.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28585787284-pdn4j1a2n3ql6aeetukq9ek5j0oa5jvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfNdHCXPm85j1rL23Npf7e6Bhv8BbI6VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28585787284-pdn4j1a2n3ql6aeetukq9ek5j0oa5jvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_back">欢迎回来</string>
+    <string name="login_to_continue">登陆</string>
+    <string name="email">账号</string>
+    <string name="password">密码</string>
+    <string name="sign_in">登陆</string>
+    <string name="create_new_account">创建账号</string>
+    <string name="add_image">增加头像</string>
+    <string name="name">昵称</string>
+    <string name="sign_up">注册</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="select_user">选择对象</string>
+    <string name="type_a_message">输入消息</string>
+</resources>
