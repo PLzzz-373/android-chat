@@ -12,6 +12,8 @@ import com.gugugu.myapplication.model.ChatMessage;
 import com.gugugu.myapplication.model.User;
 
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 
@@ -137,4 +139,5 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         sqLiteDatabase.close();
         return list;
     }
+
 }
